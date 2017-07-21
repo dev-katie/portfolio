@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+			background-color:white;
+}
+.body{
+		background-image:url(image/abstract-blue.jpg);
+	}
+.control-label{
+					color:midnightblue;
+					font-size:16px;
+	}
+h2{
+		color:midnightblue;
+		font-size:25px;
+		text-align:center;
+}
+
+.img {
+		margin-left:10em;
+}
+.btn.btn-primary {
+		margin-top:1.5em;
+}
+.small {
+		text-align:center;
+}
+.box {
+		background-image:url(file:///C|/Users/User/Desktop/Bootstrap/bootstrap-3.3.6-dist/image/Glowing-Light-Ober-Blue-Background.jpg);
+		width:50em;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:8em;
+		padding:1em;
+		padding-bottom:1.5em;
+		border-radius: 25px;
+}
+.box-login{
+		background-image:url(file:///C|/Users/User/Desktop/Bootstrap/bootstrap-3.3.6-dist/image/Glowing-Light-Ober-Blue-Background.jpg);
+		width:25em;
+		margin:auto;
+		padding:1em;
+		border-radius: 25px;
+		margin-top:7em;
+	}
+p {
+	color:white;
+	}	
